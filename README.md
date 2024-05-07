@@ -8,7 +8,8 @@ Each of us need to work on the
 
 Team Bee:
 Task: https://workat.tech/machine-coding/practice/design-parking-lot-qm6hwq4wkhp8
-
+main python file
+https://github.com/Kenethoriga/Data-Structure-and-algo/blob/main/parking_lot.py
 
 This code is a simple implementation of a parking lot management system. The system can manage a parking lot without any human intervention. It can perform the following functions:
 
